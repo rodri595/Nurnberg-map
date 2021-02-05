@@ -1,0 +1,98 @@
+[
+ {
+   "name": "Kaiserburg",
+   "lng": 11.0758463,
+   "lat": 49.457883,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Kongresshalle",
+   "lng": 11.1142822,
+   "lat": 49.4326605,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Pellerhaus",
+   "lng": 11.0809827,
+   "lat": 49.4569941,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "St. Sebald - Sebalduskirche Nürnberg",
+   "lng": 11.0759867,
+   "lat": 49.4552433,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "St. Lorenz Kirche",
+   "lng": 11.0785364,
+   "lat": 49.450956,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Nürnberger Hauptmarkt",
+   "lng": 11.0772439,
+   "lat": 49.4536207,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Insel Schütt",
+   "lng": 11.0820609,
+   "lat": 49.4528823,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "St. Johannis Kirche und Friedhof",
+   "lng": 11.0612347,
+   "lat": 49.4590546,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Hauptbahnhof",
+   "lng": 11.0818116,
+   "lat": 49.4464099,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Plärrer",
+   "lng": 11.0653981,
+   "lat": 49.4479457,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Neues Museum",
+   "lng": 11.0800425,
+   "lat": 49.4478344,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Ehrenhalle im Luitpoldhain",
+   "lng": 11.108161,
+   "lat": 49.435462,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Zeppelinfeld",
+   "lng": 11.1234553,
+   "lat": 49.4302886,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Akademie der Bildenden Künste Nürnberg",
+   "lng": 11.1364002,
+   "lat": 49.4464154,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Rangierbahnhof-Siedlung",
+   "lng": 11.1072357,
+   "lat": 49.4137366,
+   "img":"/tooltip_dummy.jpg"
+ },
+ {
+   "name": "Quelle",
+   "lng": 11.015,
+   "lat": 49.45902,
+   "img":"/tooltip_dummy.jpg"
+ }
+]
